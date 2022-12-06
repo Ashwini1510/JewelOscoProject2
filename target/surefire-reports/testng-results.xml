@@ -1,0 +1,57 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results total="3" passed="3" failed="0" skipped="0">
+  <reporter-output>
+  </reporter-output>
+  <suite started-at="2022-12-06T00:23:32Z" name="SignInTest" finished-at="2022-12-06T00:25:38Z" duration-ms="125652">
+    <groups>
+    </groups>
+    <test started-at="2022-12-06T00:23:32Z" name="Command line test" finished-at="2022-12-06T00:25:38Z" duration-ms="125652">
+      <class name="SignInTest">
+        <test-method is-config="true" signature="setUpClass()[pri:0, instance:SignInTest@10dba097]" started-at="2022-12-05T18:23:32Z" name="setUpClass" finished-at="2022-12-05T18:23:32Z" duration-ms="8" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setUpClass -->
+        <test-method is-config="true" signature="setUpMethod()[pri:0, instance:SignInTest@10dba097]" started-at="2022-12-05T18:23:32Z" name="setUpMethod" finished-at="2022-12-05T18:23:36Z" duration-ms="3597" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setUpMethod -->
+        <test-method signature="testJoscoSigninTestCase1()[pri:0, instance:SignInTest@10dba097]" started-at="2022-12-05T18:23:36Z" name="testJoscoSigninTestCase1" finished-at="2022-12-05T18:23:50Z" duration-ms="14010" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- testJoscoSigninTestCase1 -->
+        <test-method is-config="true" signature="setUpMethod()[pri:0, instance:SignInTest@10dba097]" started-at="2022-12-05T18:23:50Z" name="setUpMethod" finished-at="2022-12-05T18:23:53Z" duration-ms="3634" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setUpMethod -->
+        <test-method is-config="true" signature="tearDownMethod()[pri:0, instance:SignInTest@10dba097]" started-at="2022-12-05T18:23:50Z" name="tearDownMethod" finished-at="2022-12-05T18:23:50Z" duration-ms="0" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDownMethod -->
+        <test-method signature="testJoscoTestCase3()[pri:0, instance:SignInTest@10dba097]" started-at="2022-12-05T18:23:53Z" name="testJoscoTestCase3" finished-at="2022-12-05T18:24:37Z" duration-ms="43793" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- testJoscoTestCase3 -->
+        <test-method is-config="true" signature="tearDownMethod()[pri:0, instance:SignInTest@10dba097]" started-at="2022-12-05T18:24:37Z" name="tearDownMethod" finished-at="2022-12-05T18:24:37Z" duration-ms="0" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDownMethod -->
+        <test-method is-config="true" signature="setUpMethod()[pri:0, instance:SignInTest@10dba097]" started-at="2022-12-05T18:24:37Z" name="setUpMethod" finished-at="2022-12-05T18:24:41Z" duration-ms="3600" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setUpMethod -->
+        <test-method signature="testProductCheckTestCase2()[pri:0, instance:SignInTest@10dba097]" started-at="2022-12-05T18:24:41Z" name="testProductCheckTestCase2" finished-at="2022-12-05T18:25:38Z" duration-ms="56990" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- testProductCheckTestCase2 -->
+        <test-method is-config="true" signature="tearDownMethod()[pri:0, instance:SignInTest@10dba097]" started-at="2022-12-05T18:25:38Z" name="tearDownMethod" finished-at="2022-12-05T18:25:38Z" duration-ms="1" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDownMethod -->
+        <test-method is-config="true" signature="tearDownClass()[pri:0, instance:SignInTest@10dba097]" started-at="2022-12-05T18:25:38Z" name="tearDownClass" finished-at="2022-12-05T18:25:38Z" duration-ms="0" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDownClass -->
+      </class> <!-- SignInTest -->
+    </test> <!-- Command line test -->
+  </suite> <!-- SignInTest -->
+</testng-results>
